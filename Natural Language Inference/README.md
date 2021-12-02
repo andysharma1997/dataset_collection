@@ -13,4 +13,6 @@ A soccer game with multiple males playing. || entailment ||Some men are playing 
 An NLI pre-trained model can be used for wide varity of downstream NLP tasks where the inference btween two calsses is required.
 
 # Datasets
-1. RTE[https://deepai.org/dataset/rte] 
+1. [RTE](https://deepai.org/dataset/rte)
+2. [FEVER](https://fever.ai/dataset/adversarial.html)
+3. [MNLI](https://huggingface.co/datasets/Jikiwa/glue-mnli-train)
